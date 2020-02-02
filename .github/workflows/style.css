@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: auto;
+  height: auto;
+  z-index: 7;
+  opacity: 0.4;
+}
+h1 {
+  font-size: 33px;
+  font-family: "Montserrat";
+  color: rgb(249, 244, 244);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 86.938px;
+  top: 31.2px;
+  z-index: 6;
+}
+h2 {
+  font-size: 33px;
+  font-family: "Montserrat";
+  color: rgb(249, 244, 244);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 317.641px;
+  top: 31.7px;
+  z-index: 5;
+}
+h3 {
+  font-size: 33px;
+  font-family: "Montserrat";
+  color: rgb(249, 244, 244);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1620.938px;
+  top: 31.2px;
+  z-index: 4;
+}
+
+
+
+img8 {
+	width: 147px;
+	height: 26px;
+	position: absolute;
+	left: 86.938px;
+	top: 31.2px;
+   
+	z-index: 5;
+}
+
+img1 {
+	width: 107px;
+	height: 25px;
+	position: absolute;
+	left: 317.641px;
+	top: 31.2px;
+	z-index: 5;
+
+}
+
+img3 {
+	width: 178px;
+	height: 26px;
+	position: absolute;
+	left: 1620.938px;
+	top: 31.2px;
+	z-index: 5;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+header {
+	width: 147px;
+	height: 26px;
+	font-family: Montserrat;
+	color: #f9f5f5;
+	font-size: 33px;
+	font-weight: 700;
+}
+img2 {
+	position: absolute;
+  left: 0px;
+  top: 0px;
+
+	z-index: 5;
+}
+
+img10 {
+ position: absolute;
+  left: 0px;
+  top: 0px;
+}
